@@ -4,7 +4,7 @@
 
 This repo is part of a tutorial on how to use OpenAI Assistants API v2 in Google Sheets. 
 
-Watch the full tutorial here: 
+Watch the full tutorial here: https://youtu.be/QJDj0UUcoDM?si=j3UNtVISXFZZnHGn
 
 ### Additional Code Needed
 
