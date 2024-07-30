@@ -25,6 +25,9 @@ function trimObjectStrings(obj) {
 
 // Define a POST endpoint for '/chat'
 router.post('/chat', async (req, res) => {
+    
+    let threadID = "";  // Initialize threadID globally so it is accessible in catch block if needed
+
        // Handle the chat request
     try {
         // Trim whitespace from input variables and log them
